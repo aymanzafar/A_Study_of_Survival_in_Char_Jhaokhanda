@@ -75,12 +75,7 @@ The full PDF report is included in the repository:
 
 ---
 
-## 🔗 References
 
-- [Charbhadrasan Upazila – Wikipedia](https://en.wikipedia.org/wiki/Charbhadrasan_Upazila)  
-- [Faridpur District Govt Portal](http://charbhadrasan.faridpur.gov.bd/)
-
----
 
 ## 📬 Author Info
 
