@@ -1,6 +1,5 @@
 # Living on the Edge: A Study of Survival in Char Jhaokhanda
 
-![UIU Logo](https://upload.wikimedia.org/wikipedia/en/9/9f/UIU_LOGO.png) <!-- Optional: remove if not needed -->
 
 **Course:** SOC 3101 – Society, Environment and Engineering Ethics  
 **Institution:** United International University  
@@ -31,7 +30,7 @@ Key topics explored include:
 
 ## 📍 Field Location
 
-**Char Jhaokhanda (also known as Char Gopalpur)**  
+**Char Jhaokhanda (also known as Char Gopalpur),Faridpur, Bangladesh** 
 - Population: ~1,000 people across 200 families  
 - Main livelihood: Agriculture, Fishing, Day Labor  
 - Challenges: Flooding, poor communication, lack of market & medical facilities  
